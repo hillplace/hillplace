@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on whatever.  I'm no genius so I don't know I'll be of that much use.
 
-- 📫 How to reach me:  well yes, sometimes I check my email.  Text probably is quicker I often look for my phone severl times a day... sometimes.  Depends on current level of emotional depression depression seemingly exponentially proportional to the number of compiler errors or sometimes not being able to figure out that one god damn linux command that finishes the fucking install so I can use god damn fucking program I hate my life I hate my life I hate my life. "hello?.... dad... your computer what now?...?!!!..." fuck me there goes my afternoon.
+- 📫 How to reach me:  well yes, sometimes I check my email.  Text probably is quicker I often look for my phone several times a day... sometimes.
 
 <!---
 hillplace/hillplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
